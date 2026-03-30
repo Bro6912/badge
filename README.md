@@ -6,6 +6,3 @@ edit_2
 edit_3
 edit_4
 edit_5
-edit_6
-edit_7
-edit_7
